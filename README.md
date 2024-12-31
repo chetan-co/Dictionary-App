@@ -1,9 +1,9 @@
 React-Dictionary-App 📑...
 
 Features of Dictionary App:- 
-Search Bar
 
-1.Allow users to input words for which they want definitions.
+
+1.Search Bar Allow users to input words for which they want definitions.
 
 2.Provide suggestions as the user types (autocomplete).
 Word Details
@@ -18,7 +18,7 @@ Technology Used:-👩‍💻
 
 1.Frontend: React.js
 
-2.Styling: CSS, Bootstrap, or Tailwind CSS
+2.Styling: CSS, Bootstrap
 
 3.API: Dictionary API (e.g., Free Dictionary API)
 
