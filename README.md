@@ -15,7 +15,12 @@ Provide synonyms, antonyms, and examples of usage.
 
 
 Technology Used:-👩‍💻
+
 1.Frontend: React.js
+
 2.Styling: CSS, Bootstrap, or Tailwind CSS
+
 3.API: Dictionary API (e.g., Free Dictionary API)
-4.Optional Libraries: Axios (for HTTP requests), React Icons (for icons)
+
+4.Optional Libraries: Axios (for HTTP requests),
+5.React Icons (for icons)
